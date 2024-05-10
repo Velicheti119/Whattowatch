@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "634340385114",
+    "project_id": "whattowatch-5186e",
+    "storage_bucket": "whattowatch-5186e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:634340385114:android:04813d2d1c73bc44569363",
+        "android_client_info": {
+          "package_name": "com.example.whattowatch"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDXS5psrdAIA_7EFW9QPM8MBqCSnpiKYqs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

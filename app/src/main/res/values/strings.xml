@@ -1,3 +1,10 @@
 <resources>
     <string name="app_name">Whattowatch</string>
+    <string name="intro_pic">IntroPic</string>
+    <string name="login_button">Login</string>
+    <string name="singup_button">Signup</string>
+    <string name="introheading1">Get Latest Movie Recommendations</string>
+    <string name="introheading2">Create an account today!</string>
+    <string name="introheading3">Already a member?</string>
+    <string name="welcome_string">Welcome</string>
 </resources>
